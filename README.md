@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mukmanee312
-- 👀 I’m interested in Data Science Data Engineer and IoT 
+- 👀 I’m interested in IT Support, Data Analyst, Business Analyst and IoT 
 
 
 <!---
